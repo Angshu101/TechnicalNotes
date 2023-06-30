@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "4c157f8994c16d50",
+    "type": "split",
+    "children": [
+      {
+        "id": "47421b45cd86905c",
+        "type": "tabs",
+        "dimension": 69.01544401544402,
+        "children": [
+          {
+            "id": "bd0a912061f20e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking Fundamentals/OSI Model.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "f42019c8adcf29f9"
+          }
+        ]
+      },
+      {
+        "id": "9cd7e89539c7a7ba",
+        "type": "split",
+        "dimension": 30.984555984555982,
+        "children": [
+          {
+            "id": "92897eb18e2e471b",
+            "type": "tabs",
+            "dimension": 51.162790697674424,
+            "children": [
+              {
+                "id": "de1af26f1eda5e92",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "6c6cb3d95d23c25c",
+            "type": "tabs",
+            "dimension": 48.837209302325576,
+            "children": [
+              {
+                "id": "16e6a363f394d0bb",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Networking Fundamentals/OSI Model.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "f42019c8adcf29f9"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3aac3d698f3f0b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7854c814b3f5f4e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "638a547be7d530b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "7d2e88b9e2ffebbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1aed8a1ff3eaa7cc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "56e990b2571aa8e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5caf7c5f3e27232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf07a5f3b1efdbf1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Networking Fundamentals/OSI Model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "232bdca7d7022ed8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7eceb9b0ff13d2d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Networking Fundamentals/OSI Model.md"
+              }
+            }
+          },
+          {
+            "id": "b2463a31685f3411",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "ObsidianAnkiSync:Start Obsidian Anki Sync": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "638a547be7d530b6",
+  "lastOpenFiles": [
+    "Images/Pasted image 20230414185339.png",
+    "Images/Pasted image 20230414183340.png",
+    "Networking Fundamentals/OSI Model.md",
+    "Networking Fundamentals/transport layer.md",
+    "Cloud Concepts/AWS/Vpc.md",
+    "Cloud Concepts/AWS/AWS Concepts.md",
+    "Cloud Concepts/AWS/Ec-2 instance.md",
+    "Networking Fundamentals/Fragmentation.md",
+    "Networking Fundamentals/Network Layer.md",
+    "Images/Pasted image 20230414000516.png",
+    "Images",
+    "Networking Fundamentals/Data Link Layer.md",
+    "Backend Concepts/Backend Engineer.md",
+    "Images/Pasted image 20230413230147.png",
+    "Images/Pasted image 20230413232005.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Pasted image 20230413225643.png.md",
+    "Pasted image 20230413225947.png",
+    "Pasted image 20230413225643.png",
+    "Graph Algorithms.md",
+    "2023-02-16.md"
+  ]
+}
